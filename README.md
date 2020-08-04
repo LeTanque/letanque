@@ -16,7 +16,7 @@
 
 ---
 
-Hello, I'm leTanque!
+Hello, I'm [leTanque](https://letanque.com/)!
 
 I'm a software engineer who enjoys making music, taking things apart to understand how they work, and writing code that evokes positive emotions to my users. For a moment, if/when things are going well, making music, taking things apart, and writing code all become the same thing. 
 
