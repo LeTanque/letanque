@@ -1,16 +1,29 @@
-### Hi there 👋
+<div>
+  <img  width="47%"  >
+  <img src="https://res.cloudinary.com/letanque/image/upload/v1596583057/fm03-single_asyq14.png" width="6%"  >
+  <img  width="47%"  >
+</div>
+```md
+    __   ______                           
+   / ___/_  ______ _____  ____ ___  _____ 
+  / / _ \/ / / __ `/ __ \/ __ `/ / / / _ \
+ / /  __/ / / /_/ / / / / /_/ / /_/ /  __/
+/_/\___/_/  \__,_/_/ /_/\__, /\__,_/\___/ 
+                          /_/             
+```
 
-<!--
-**LeTanque/letanque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Hello, I'm leTanque!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software engineer who enjoys making music, taking things apart to understand how they work, and writing code that evokes positive emotions to my users. For a moment, if/when things are going well, making music, taking things apart, and writing code all become the same thing. 
+
+Some things I remind myself of all the time:
+- Smooth is slow, slow is fast.
+- You can always save one week of planning by spending 3 weeks in additional development time.
+- We write code for humans, not machines.
+- The future you get is the future that you were a part of building; so take ownership and build it.
+
+What I'm into lately:
+- Hatch front end development.
+- Learning from some of the most talented people I've ever met.
