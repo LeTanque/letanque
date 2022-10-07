@@ -15,7 +15,7 @@
 
 ---
 
-Hello, I'm [leTanque](https://letanque.com/)!
+Hello, I'm leTanque!
 
 I'm a software engineer who enjoys making music, taking things apart to understand how they work, and writing code that evokes positive emotions to my users. For a moment, if/when things are going well, making music, taking things apart, and writing code all become the same thing. 
 
@@ -24,7 +24,3 @@ Some things I remind myself of all the time:
 - You can always save one week of planning by spending 3 weeks in additional development time.
 - We write code for humans, not machines.
 - The future you get is the future that you were a part of building; so take ownership and build it.
-
-What I'm into lately:
-- Hatch front end development.
-- Learning from some of the most talented people I've ever met.
