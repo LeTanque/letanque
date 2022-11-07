@@ -17,10 +17,13 @@
 
 Hello, I'm leTanque!
 
-I'm a software engineer who enjoys making music, taking things apart to understand how they work, and writing code that evokes positive emotions to my users. For a moment, if/when things are going well, making music, taking things apart, and writing code all become the same thing. 
+I'm a software engineer who enjoys making music, working with my hands, and writing stable documented code.
 
-Some things I remind myself of all the time:
+Some of the "codes" I live by:
+- Read the docs.
 - Smooth is slow, slow is fast.
-- You can always save one week of planning by spending 3 weeks in additional development time.
-- We write code for humans, not machines.
-- The future you get is the future that you were a part of building; so take ownership and build it.
+- You can save a week of planning by spending 3 weeks in additional development time.
+- Understand the problem, Plan solution(s), Execute, Reflect. UPER.
+- Write code for humans, not machines.
+- Don't hesistate to communicate.
+- Take ownership and build the future we need.
